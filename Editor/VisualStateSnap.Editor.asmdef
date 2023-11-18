@@ -1,0 +1,16 @@
+{
+    "name": "VisualStateSnap.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a3f7526b6602f428eb2c9356adfcc451"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
